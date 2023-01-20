@@ -4,7 +4,7 @@ import { FaGithub, FaTwitter } from "react-icons/fa";
 type LinkProps = {
   title: string;
   href: string;
-  image: string;
+  image?: string;
 };
 
 function LinkCard({ title, href, image }: LinkProps) {
