@@ -3,28 +3,27 @@
   "avatar": "https://avatars.githubusercontent.com/u/78271602?v=4",
   "links": [
     {
-      "title": "Website",
-      "url": "https://anuragp.dev",
+      "title": "My Portfolio Website",
+      "href": "https://anuragp.dev",
       "image": "https://avatars.githubusercontent.com/u/78271602?v=4"
     },
     {
       "title": "GitHub",
-      "url": "https://github.com/apicgg",
-      "image": "https://avatars.githubusercontent.com/u/78271602?v=4"
+      "href": "https://github.com/apicgg"
     },
     {
       "title": "Twitter",
-      "url": "https://twitter.com/apicgg"
+      "href": "https://twitter.com/titas_p"
     }
   ],
   "socials": [
     {
       "title": "GitHub",
-      "url": "https://github.com/apicgg"
+      "href": "https://github.com/apicgg"
     },
     {
       "title": "Twitter",
-      "url": "https://twitter.com/apicgg"
+      "href": "https://twitter.com/apicgg"
     }
   ]
 }
